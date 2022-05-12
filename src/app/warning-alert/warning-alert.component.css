@@ -1,0 +1,7 @@
+p {
+    padding: 20px;
+    max-width: 20em;
+    color: white;
+    background-color: red;
+    border: 1px solid black;
+}
